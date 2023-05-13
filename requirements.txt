@@ -1,1 +1,0 @@
-streamlit-searchbox==0.1.3
